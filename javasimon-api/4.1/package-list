@@ -1,0 +1,15 @@
+org.javasimon
+org.javasimon.aop
+org.javasimon.callback
+org.javasimon.callback.async
+org.javasimon.callback.calltree
+org.javasimon.callback.lastsplits
+org.javasimon.callback.logging
+org.javasimon.callback.quantiles
+org.javasimon.callback.timeline
+org.javasimon.clock
+org.javasimon.jmx
+org.javasimon.proxy
+org.javasimon.source
+org.javasimon.utils
+org.javasimon.utils.bean
